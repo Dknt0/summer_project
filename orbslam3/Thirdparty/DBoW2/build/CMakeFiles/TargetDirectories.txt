@@ -1,0 +1,3 @@
+/home/dknt/Projects/uav_sim/src/orbslam3/Thirdparty/DBoW2/build/CMakeFiles/DBoW2.dir
+/home/dknt/Projects/uav_sim/src/orbslam3/Thirdparty/DBoW2/build/CMakeFiles/edit_cache.dir
+/home/dknt/Projects/uav_sim/src/orbslam3/Thirdparty/DBoW2/build/CMakeFiles/rebuild_cache.dir

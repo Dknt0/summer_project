@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/dknt/Projects/uav_sim/install/px4_ros_com/include/**",
+        "/home/dknt/Projects/uav_sim/install/px4_msgs/include/**",
+        "/home/dknt/test/ros2_ws/install/tutorial_interfaces/include/**",
+        "/home/dknt/test/ros2_ws/install/turtlesim/include/**",
+        "/home/dknt/test/ros2_ws/src/install/tutorial_interfaces/include/**",
+        "/home/dknt/test/ros2_ws/src/install/turtlesim/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/dknt/Projects/uav_sim/src/ofb_ctr/include/**",
+        "/home/dknt/Projects/uav_sim/src/px4_ros_com/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

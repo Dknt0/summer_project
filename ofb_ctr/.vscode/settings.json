@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/dknt/Projects/uav_sim/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/home/dknt/test/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages",
+        "/home/dknt/test/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/home/dknt/test/ros2_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages",
+        "/home/dknt/test/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/dknt/Projects/uav_sim/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/home/dknt/test/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages",
+        "/home/dknt/test/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/home/dknt/test/ros2_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages",
+        "/home/dknt/test/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
